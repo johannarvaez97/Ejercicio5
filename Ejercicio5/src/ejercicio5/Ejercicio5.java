@@ -21,6 +21,10 @@ public class Ejercicio5 {
         int b = 10;
         imprimir = a + b;
         System.out.println("resultado de la suma "+ imprimir);
+        
+        imprimir = a-b;
+        System.out.println("Resultado de la resta es"+ imprimir);
+        
     }
 
 }
