@@ -15,6 +15,12 @@ public class Ejercicio5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola mundo");    }
-    
+        System.out.println("hola mundo");
+        int imprimir;
+        int a = 5;
+        int b = 10;
+        imprimir = a + b;
+        System.out.println("resultado de la suma "+ imprimir);
+    }
+
 }
