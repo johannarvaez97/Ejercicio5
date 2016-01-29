@@ -25,6 +25,8 @@ public class Ejercicio5 {
         imprimir = a-b;
         System.out.println("Resultado de la resta es"+ imprimir);
         
+        imprimir =a/b;
+        System.out.println("resultado de la division es "+ imprimir);
     }
 
 }
